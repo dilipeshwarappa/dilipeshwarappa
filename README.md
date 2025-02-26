@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Devops tools
 - 💞️ I’m looking to collaborate on DevOps learning
-- 📫 How to reach me dilipeshwarappa@gmail.com or whatsapp me at +91-9886989565
+- 📫 How to reach me dilipeshwarappa@gmail.com or whatsapp me at +1-519-702-7321
 
 <!---
 dilipeshwarappa/dilipeshwarappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
